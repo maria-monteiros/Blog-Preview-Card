@@ -7,7 +7,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Live Site URL - [https://recipe-page-challenge-fm.netlify.app/](https://blog-preview-card-challenge-fem.netlify.app/)
+- Live Site URL - [(https://blog-preview-card-challenge-fem.netlify.app/)](https://blog-preview-card-challenge-fem.netlify.app/)
 
 # Author 
 
